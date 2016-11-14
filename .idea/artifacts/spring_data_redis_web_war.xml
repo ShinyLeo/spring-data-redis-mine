@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-data-redis-web:war">
+    <output-path>$PROJECT_DIR$/spring-data-redis-web/target</output-path>
+    <root id="archive" name="spring.redis.web.war">
+      <element id="artifact" artifact-name="spring-data-redis-web:war exploded" />
+    </root>
+  </artifact>
+</component>

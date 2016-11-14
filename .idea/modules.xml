@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-data-redis-mine.iml" filepath="$PROJECT_DIR$/spring-data-redis-mine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-redis-web/spring-data-redis-web.iml" filepath="$PROJECT_DIR$/spring-data-redis-web/spring-data-redis-web.iml" />
+    </modules>
+  </component>
+</project>
